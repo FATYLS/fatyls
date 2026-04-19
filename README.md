@@ -5,7 +5,7 @@
 Passionnée par le développement **Full Stack**, toujours à jour avec les dernières technologies. Je maîtrise React, Next.js, Node.js, TypeScript, Tailwind CSS, PHP, Python et C#, avec une approche moderne incluant CI/CD, Docker et GitHub Actions. Curieuse et motivée, j'adore apprendre et relever de nouveaux défis ! je suis en constante recherche de nouvelles technologies à explorer et de défis à relever. Mon objectif est de concevoir des expériences numériques innovantes et performantes.
 
 - 📍 Basée à Paris, France
-🎓 En recherche d'alternance pour un Mastère Tech Lead
+- 🎓 En recherche d'alternance pour un Mastère Tech Lead
 - 🎮 Passionnée par le Développement web et la Nouvelles Technologies
 - 📫 Contact : fatimazahrais037@gmail.com
 
@@ -110,13 +110,13 @@ Gestion efficace de la base de données avec MongoDB. — Next.js, MongoDB, Tail
 
 ---
 
-### 🏆 Plateforme d'enchères Solibad *(Workshop Tech Lead — janvier 2025)*
+### 🏆 Plateforme d'enchères Solibad 
 > Plateforme permettant de mettre aux enchères des articles de joueurs ambassadeurs dans l'écosystème Solibad. Interfaces fluides et gestion efficace de la base de données.
 - **Stack :** Next.js, Node.js, MongoDB, Tailwind CSS
 
 ---
 
-### 🛒 NELYA NATURE – Site e-commerce cosmétiques *(IGA — avr. 2022 – juin 2022)*
+### 🛒 NELYA NATURE – Site e-commerce cosmétiques 
 > Boutique en ligne pour présenter, commercialiser et livrer des produits cosmétiques bio. Fonctionnalités : inscription visiteurs, suivi des commandes et des livraisons.
 - **Stack :** PHP, MySQL, Bootstrap
 
