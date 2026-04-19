@@ -94,32 +94,32 @@ Gestion efficace de la base de données avec MongoDB. — Next.js, MongoDB, Tail
 - **Côté visiteur :** plan interactif, modules cliquables, contenus multimédias, parcours gamifié (quêtes, collecte de Mirium)
 - **Côté admin :** CRUD modules, upload médias, drag & drop sur le plan, authentification sécurisée
 - **Stack :** Next.js, React, TypeScript, Tailwind CSS, Supabase, PostgreSQL, Vercel
-- 🔗 [Admin Dashboard](https://v0-mirokai-admin-dashboard.vercel.app/admin/modules) · [GitHub](https://github.com/FATYLS/mirokai-admin)
+- 🔗 [Admin Dashboard](https://v0-mirokai-admin-dashboard.vercel.app/admin/modules) · [mirokai](https://github.com/FATYLS/mirokai-admin)
 
 ---
 
 ### 🥈 Hackathon – Re_fashion *(2ème place au podium)*
 > Solution numérique innovante pour favoriser la **réparation textile autonome** chez les jeunes (15–25 ans). L'application aide à identifier les bons gestes et ressources pour réparer vêtements et chaussures, modernise l'image de la réparation et met en lumière les métiers du secteur textile.
 - **Stack :** Flutter, Firebase, MongoDB, TypeScript, Next.js, Express.js, Node.js, Stripe, Vercel
-
+- 🔗[Re_Fashion] (https://re-fashion-2.vercel.app)
 ---
 
 ### 🎮 Chatbot Gaming – Recommandation de jeux vidéo
 > Chatbot intelligent qui recommande des jeux vidéo selon les préférences de l'utilisateur (type de jeu, plateforme, genre). Via un système de questions interactives, le chatbot construit un profil joueur et suggère des jeux personnalisés.
 - **Stack :** Node.js, Express.js
-
+- 🔗[Chatbotg] (https://chatbot-gamingfz.vercel.app)
 ---
 
 ### 🏆 Plateforme d'enchères Solibad 
 > Plateforme permettant de mettre aux enchères des articles de joueurs ambassadeurs dans l'écosystème Solibad. Interfaces fluides et gestion efficace de la base de données.
 - **Stack :** Next.js, Node.js, MongoDB, Tailwind CSS
-
+- 🔗[Solibad] (https://solibad-git-oldversion-oceane-rakotomalalas-projects.vercel.app/login)
 ---
 
 ### 🛒 NELYA NATURE – Site e-commerce cosmétiques 
 > Boutique en ligne pour présenter, commercialiser et livrer des produits cosmétiques bio. Fonctionnalités : inscription visiteurs, suivi des commandes et des livraisons.
 - **Stack :** PHP, MySQL, Bootstrap
-
+- 🔗[Nelya nature] (https://nelyanature.vercel.app)
 ---
 
 ### 👥 Gestion des Salariés
