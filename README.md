@@ -70,11 +70,8 @@ Passionnée par le développement **Full Stack**, toujours à jour avec les dern
 ---
 
 ## 💼 Expériences
-
-🏸 **Workshop Solibad Paris** 
-> Semaine de WORKSHOP TL
-Créer une plateforme d'enchères intégrée à l'écosystème Solibad qui va permettre des articles de joueurs ambassadeurs (next.js,mongodb,Tailwandcss,nodejs) Développement d'interfaces utilisateurs fluides avec Tailwind CSS.
-Gestion efficace de la base de données avec MongoDB. — Next.js, MongoDB, Tailwind CSS, Node.js
+🏸 **Globe Énergie Technologie SARL** 
+>  Gestion efficace de la base de données avec MongoDB. — Next.js, MongoDB, Tailwind CSS, Node.js
 
 🌐 **Développeur Web – IRMH** 
 > Conception et développement d'interfaces web innovantes et engageantes (front-end)
