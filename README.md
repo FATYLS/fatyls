@@ -5,7 +5,7 @@
 Passionnée par le développement **Full Stack**, toujours à jour avec les dernières technologies. Je maîtrise React, Next.js, Node.js, TypeScript, Tailwind CSS, PHP, Python et C#, avec une approche moderne incluant CI/CD, Docker et GitHub Actions. Curieuse et motivée, j'adore apprendre et relever de nouveaux défis ! je suis en constante recherche de nouvelles technologies à explorer et de défis à relever. Mon objectif est de concevoir des expériences numériques innovantes et performantes.
 
 - 📍 Basée à Paris, France
-- 🎓 En recherche d'alternance pour un Mastère Tech Lead
+- 🎓  Étudiante en 4e année Cycle Ingénieur – Data & IA | Recherche Alternance | Data Engineer | Data Scientist |       AI Engineer | Data Analyst 
 - 🎮 Passionnée par le Développement web et la Nouvelles Technologies
 - 📫 Contact : fatimazahrais037@gmail.com
 
